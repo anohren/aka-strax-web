@@ -23,7 +23,7 @@ Realtid innebär att avgångstiden räknas ut beroende på var bussen befinner s
 #### Länkar
 
 - [Åka Strax på svenska Appstore](https://itunes.apple.com/se/app/aka-strax/id996590070?mt=8)
-- Originalikon gjord av Freepik från www.flaticon.com. Redigerad med tillåtelse.
+- Originalikon gjord av Freepik från [Flaticon](www.flaticon.com). Redigerad med tillåtelse.
 
 #### Integritetspolicy
 
