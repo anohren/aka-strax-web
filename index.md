@@ -2,9 +2,9 @@
 
 ## Det speciella
 
-- Låt platstjänster välja rätt hållplats bland dina favoriter när du öppnar appen.
-- Framhäv dina egna linjer, eftersom alla bussar inte är lika intressanta.
-- Få uppdateringar upplästa i hörlurarna för din avgång. Gör en macka medan du väntar istället för att hela tiden uppdatera tiderna manuellt; bli uppdaterad om antal minuter kvar medan du går mot hållplatsen. Eller kanske bäst av allt, slipp hålla i en kall mobil på vintern.
+- Låt **platstjänster** välja rätt hållplats bland dina favoriter när du öppnar appen.
+- **Framhäv** dina egna linjer, eftersom alla bussar inte är lika intressanta.
+- Få uppdateringar **upplästa** i hörlurarna för din avgång. Gör en macka medan du väntar istället för att hela tiden uppdatera tiderna manuellt; bli uppdaterad om antal minuter kvar medan du går mot hållplatsen. Eller kanske bäst av allt, slipp hålla i en kall mobil på vintern.
 - Inställningar per hållplats.
 
 ## Det självklara
@@ -14,16 +14,18 @@
 - Visar bussar, tunnelbana, tåg, lokalbana och båt.
 - Närliggande hållplatser.
 
-## Realtid?
+---
+
+#### Realtid?
 
 Realtid innebär att avgångstiden räknas ut beroende på var bussen befinner sig just nu. Realtider är alltså mer aktuella än de tider som står på tidtabellen. Tänk på att de räknas ut kontinuerligt och kan ändras med flera minuter åt gången om trafikläget förändras.
 
-## Länkar
+#### Länkar
 
 - Åka Strax på svenska Appstore
 - Originalikon gjord av Freepik från www.flaticon.com. Redigerad med tillåtelse.
 
-## Integritetspolicy
+#### Integritetspolicy
 
 Åka Strax skickar inte någon personlig information ifrån enheten den är installerad på.
 
