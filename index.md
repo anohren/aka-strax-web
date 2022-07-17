@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+Åka Strax är SL realtidsinformation på rätt sätt, för dig som har en del favorithållplatser och -linjer. Du slipper välja bland dina vanliga hållplatser, och kan lyssna på regelbundna uppdateringar utan att du behöver röra din telefon.
 
-You can use the [editor on GitHub](https://github.com/anohren/aka-strax-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Det speciella
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Låt platstjänster välja rätt hållplats bland dina favoriter när du öppnar appen.
+- Framhäv dina egna linjer, eftersom alla bussar inte är lika intressanta.
+- Få uppdateringar upplästa i hörlurarna för din avgång. Gör en macka medan du väntar istället för att hela tiden uppdatera tiderna manuellt; bli uppdaterad om antal minuter kvar medan du går mot hållplatsen. Eller kanske bäst av allt, slipp hålla i en kall mobil på vintern.
+- Inställningar per hållplats.
 
-### Markdown
+## Det självklara
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Se antal minuter kvar till nästa avgång.
+- Spara dina favorithållplatser.
+- Visar bussar, tunnelbana, tåg, lokalbana och båt.
+- Närliggande hållplatser.
 
-```markdown
-Syntax highlighted code block
+## Realtid?
 
-# Header 1
-## Header 2
-### Header 3
+Realtid innebär att avgångstiden räknas ut beroende på var bussen befinner sig just nu. Realtider är alltså mer aktuella än de tider som står på tidtabellen. Tänk på att de räknas ut kontinuerligt och kan ändras med flera minuter åt gången om trafikläget förändras.
 
-- Bulleted
-- List
+## Länkar
 
-1. Numbered
-2. List
+- Åka Strax på svenska Appstore
+- Originalikon gjord av Freepik från www.flaticon.com. Redigerad med tillåtelse.
 
-**Bold** and _Italic_ and `Code` text
+## Integritetspolicy
 
-[Link](url) and ![Image](src)
-```
+Åka Strax skickar inte någon personlig information ifrån enheten den är installerad på.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anohren/aka-strax-web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Vid användning av appen anropas tredje parts (trafiklab.ses) servrar med de sökparametrar du anger, som du angett tidigare, eller som avlästs automatiskt från din enhet (t.ex. enhetens position). Dessa anrop med tillhörande data behandlas i enlighet med Trafiklabs integritetspolicy.
